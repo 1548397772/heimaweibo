@@ -1276,6 +1276,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -1575,6 +1576,7 @@
 				GCC_PREFIX_HEADER = "黑马微博/黑马微博-Prefix.pch";
 				INFOPLIST_FILE = "黑马微博/黑马微博-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MARKETING_VERSION = 2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -1590,6 +1592,7 @@
 				GCC_PREFIX_HEADER = "黑马微博/黑马微博-Prefix.pch";
 				INFOPLIST_FILE = "黑马微博/黑马微博-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MARKETING_VERSION = 2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
